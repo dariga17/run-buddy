@@ -13,4 +13,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Dariga Iskakova
 
-### ©️2021 work day scheduler 
+### ©️2019 Run Buddy, Inc
